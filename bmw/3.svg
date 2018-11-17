@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+	<circle cx="50" cy="50" r="46" fill="#919191" stroke="#a0a0a0" stroke-width="5"/>
+	<mask id="x">
+		<circle cx="50" cy="50" r="44" fill="#fff"/>
+	</mask>
+	<g mask="url(#x)" fill="#b5b5b5" transform-origin="50% 50%">
+		<rect x="0" y="0" width="50" height="50"/>
+		<rect x="50" y="50" width="50" height="50"/>
+		<animateTransform attributeName="transform" dur="1s" repeatCount="indefinite" type="rotate" values="0 0 0;360 0 0"/>
+	</g>
+</svg>
