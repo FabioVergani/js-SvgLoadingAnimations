@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+ <circle cx="75" cy="50" r="3">
+	<animate attributeName="r" begin="-.9s" dur="1s" repeatCount="indefinite" values="3;3;5;3;3"/>
+	<animate attributeName="fill" begin="-.9s" dur="1s" repeatCount="indefinite" values="#000;#000;#eee;#000;#000"/>
+ </circle>
+ <circle cx="71" cy="64" r="3">
+	<animate attributeName="r" begin="-.81s" dur="1s" repeatCount="indefinite" values="3;3;5;3;3"/>
+	<animate attributeName="fill" begin="-.81s" dur="1s" repeatCount="indefinite" values="#000;#000;#eee;#000;#000"/>
+ </circle>
+ <circle cx="60" cy="73" r="3">
+	<animate attributeName="r" begin="-.72s" dur="1s" repeatCount="indefinite" values="3;3;5;3;3"/>
+	<animate attributeName="fill" begin="-.72s" dur="1s" repeatCount="indefinite" values="#000;#000;#eee;#000;#000"/>
+ </circle>
+ <circle cx="46" cy="75" r="3">
+	<animate attributeName="r" begin="-.63s" dur="1s" repeatCount="indefinite" values="3;3;5;3;3"/>
+	<animate attributeName="fill" begin="-.63s" dur="1s" repeatCount="indefinite" values="#000;#000;#eee;#000;#000"/>
+ </circle>
+ <circle cx="34" cy="69" r="4">
+	<animate attributeName="r" begin="-.54s" dur="1s" repeatCount="indefinite" values="3;3;5;3;3"/>
+	<animate attributeName="fill" begin="-.54s" dur="1s" repeatCount="indefinite" values="#000;#000;#eee;#000;#000"/>
+ </circle>
+ <circle cx="26" cy="57" r="4">
+	<animate attributeName="r" begin="-.45s" dur="1s" repeatCount="indefinite" values="3;3;5;3;3"/>
+	<animate attributeName="fill" begin="-.45s" dur="1s" repeatCount="indefinite" values="#000;#000;#eee;#000;#000"/>
+ </circle>
+ <circle cx="26" cy="43" r="5">
+	<animate attributeName="r" begin="-.36s" dur="1s" repeatCount="indefinite" values="3;3;5;3;3"/>
+	<animate attributeName="fill" begin="-.36s" dur="1s" repeatCount="indefinite" values="#000;#000;#eee;#000;#000"/>
+ </circle>
+ <circle cx="34" cy="31" r="4">
+	<animate attributeName="r" begin="-.27s" dur="1s" repeatCount="indefinite" values="3;3;5;3;3"/>
+	<animate attributeName="fill" begin="-.27s" dur="1s" repeatCount="indefinite" values="#000;#000;#eee;#000;#000"/>
+ </circle>
+ <circle cx="46" cy="25" r="4">
+	<animate attributeName="r" begin="-.18s" dur="1s" repeatCount="indefinite" values="3;3;5;3;3"/>
+	<animate attributeName="fill" begin="-.18s" dur="1s" repeatCount="indefinite" values="#000;#000;#eee;#000;#000"/>
+ </circle>
+ <circle cx="60" cy="27" r="3">
+	<animate attributeName="r" begin="-.09s" dur="1s" repeatCount="indefinite" values="3;3;5;3;3"/>
+	<animate attributeName="fill" begin="-.09s" dur="1s" repeatCount="indefinite" values="#000;#000;#eee;#000;#000"/>
+ </circle>
+ <circle cx="71" cy="36" r="3">
+	<animate attributeName="r" begin="0s" dur="1s" repeatCount="indefinite" values="3;3;5;3;3"/>
+	<animate attributeName="fill" begin="0s" dur="1s" repeatCount="indefinite" values="#000;#000;#eee;#000;#000"/>
+ </circle>
+</svg>
