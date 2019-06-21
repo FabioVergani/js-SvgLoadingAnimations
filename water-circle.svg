@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+	<style>circle{cx:50;cy:50;fill:none;stroke-width:2}</style>
+	<circle r="22" stroke="#000">
+		<animate calcMode="spline" dur="2" repeatCount="indefinite" keySplines="0 0.2 0.8 1" attributeName="r" begin="-1s" values="0;22"/>
+		<animate calcMode="spline" dur="2" repeatCount="indefinite" keySplines="0.2 0 0.8 1" attributeName="opacity" begin="-1s" values="1;0"/>
+	</circle>
+	<circle r="14" stroke="#000">
+		<animate calcMode="spline" dur="2" repeatCount="indefinite" keySplines="0 0.2 0.8 1" attributeName="r" values="0;22"/>
+		<animate calcMode="spline" dur="2" repeatCount="indefinite" keySplines="0.2 0 0.8 1" attributeName="opacity" values="1;0"/>
+	</circle>
+</svg>
